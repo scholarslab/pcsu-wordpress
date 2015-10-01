@@ -412,6 +412,7 @@ div[role="main"] {
     list-style:none;
     overflow-x: hidden;
     li {
+        clear:both;
         &:after {
             float: left;
             width: 0;

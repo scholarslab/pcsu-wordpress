@@ -880,6 +880,9 @@ table {
     list-style: none;
     overflow-x: hidden;
   }
+  #posts li {
+    clear: both;
+  }
   #posts li:after {
     float: left;
     width: 0;
