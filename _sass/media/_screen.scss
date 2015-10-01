@@ -427,9 +427,6 @@ div[role="main"] {
 
         :first-child {
             padding-right: 0.25em;
-            @include background(
-                image-url('ricepaper2.png') fixed
-            );
         }
 
         :last-child {
@@ -439,10 +436,6 @@ div[role="main"] {
             position: relative;
             z-index: 1;
             text-align:right;
-            @include background(
-                image-url('ricepaper2.png') fixed
-            );
-
         }
     }
 

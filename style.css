@@ -892,7 +892,6 @@ table {
   }
   #posts li :first-child {
     padding-right: 0.25em;
-    background: url('images/ricepaper2.png?1443708275') fixed;
   }
   #posts li :last-child {
     display: block;
@@ -901,7 +900,6 @@ table {
     position: relative;
     z-index: 1;
     text-align: right;
-    background: url('images/ricepaper2.png?1443708275') fixed;
   }
   #posts a {
     font-weight: bold;
